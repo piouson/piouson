@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img alt="Hi, I'm Pius Lawal" src="assets/banner.svg">
+  <img alt="Hi, I'm Pius Lawal aka Piouson" src="assets/banner.svg">
 </p>
 
 #### About Me
@@ -10,3 +10,7 @@
 - 👯 I’m looking to collaborate on blockchain projects or anything React
 - 💬 Ask me about anything [here](https://github.com/piouson/piouson/issues)
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/piouson)
+
+<p align="center" width="100%">
+  <img alt="Piouson under construction" src="assets/under-contruction.svg">
+</p>
