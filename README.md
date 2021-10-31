@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Pius Lawal
+<p align="center" width="100%">
+  <img alt="Hi, I'm Pius Lawal" src="assets/banner.svg">
+</p>
 
 #### About Me
 
