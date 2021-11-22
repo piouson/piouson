@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img alt="Hi, I'm Pius Lawal aka Piouson" src="assets/banner.svg">
+  <img alt="Hi, I'm Pius Lawal aka Piouson" src="assets/banner.png">
 </p>
 
 #### About Me
