@@ -6,6 +6,7 @@
 
 - 💼 Developer at [ANS](https://www.ans.co.uk/)
 - 👨‍🏫 Teaching Assistant at [2U](https://2u.com/)
+- 💻 Most recent Hack was [ETHGlobal Web3Jam](https://jam.ethglobal.com/) - [Equatorious](https://github.com/cyruskarsan/equatorious)
 - 🔭 I'm mostly working on private repositories, so you may find scant contributions here
 - 👯 I’m looking to collaborate on blockchain projects or anything React
 - 💬 Ask me about anything [here](https://github.com/piouson/piouson/issues)
