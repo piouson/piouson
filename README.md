@@ -18,14 +18,14 @@
 
 #### About Me
 
-- 💼 Developer at [ANS](https://www.ans.co.uk/)
-- 👨‍🏫 Teaching Assistant at [2U](https://2u.com/)
-- 💻 Most recent Hack [ETHGlobal Web3Jam - Equatorious](https://showcase.ethglobal.com/web3jam/equatorious)
-- 🛠️ Proficiency in [Semantic & Accessible UI](https://www.w3.org/TR/WCAG21/), [React Patterns](https://reactpatterns.com/), Automated Testing and Mentoring
+- 💼 Developer at <a alt="ANS Group" href="https://www.ans.co.uk/" target="_blank">ANS</a>
+- 👨‍🏫 Teaching Assistant at <a alt="2U Inc" href="https://2u.com/" target="_blank">2U</a>
+- 💻 Most recent Hack <a alt="ETH-Global Web3Jam Hackathon project - Equatorious" href="https://showcase.ethglobal.com/web3jam/equatorious" target="_blank">ETHGlobal Web3Jam - Equatorious</a>
+- 🛠️ Proficiency in <a alt="Semantic & Accessible UI" href="https://www.w3.org/TR/WCAG21/" target="_blank">Semantic & Accessible UI</a>, <a alt="React Patterns" href="https://reactpatterns.com/" target="_blank">React Patterns</a>, <a alt="Test Automation" href="https://testautomationu.applitools.com/learningpaths.html" target="_blank">Test Automation</a> and Mentoring
 - 🔭 I'm mostly working on private repositories, so you may find scant contributions here
 - 👯 I’m looking to collaborate on blockchain projects or anything React
-- 💬 Ask me about anything in [Discussions](https://github.com/piouson/piouson/discussions/1)
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/piouson)
+- 💬 Ask me about anything in <a alt="GitHub - Discussions" href="https://github.com/piouson/piouson/discussions/1" target="_blank">Discussions</a>
+- 📫 You can reach me on <a alt="LinkedIn - Pius Lawal" href="https://www.linkedin.com/in/piouson" target="_blank">LinkedIn</a>
 
 <p align="center" width="100%">
   <img alt="Developer under construction" src="assets/under-construction.png">
