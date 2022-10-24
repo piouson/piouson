@@ -3,6 +3,9 @@
   <div>
     <img alt="HTML5" src="https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
     <img alt="CSS3" src="https://img.shields.io/static/v1?message=css&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
+    <img alt="TailwindCSS" src="https://img.shields.io/static/v1?message=tailwindcss&logo=tailwindcss&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
+    <img alt="JS" src="https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
+    <img alt="TS" src="https://img.shields.io/static/v1?message=typescript&logo=typescript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
     <img alt="React.js" src="https://img.shields.io/static/v1?message=react&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
     <img alt="Next.js" src="https://img.shields.io/static/v1?message=next&logo=nextdotjs&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
     <img alt="Express.js" src="https://img.shields.io/static/v1?message=express&logo=nodedotjs&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
